@@ -1,28 +1,28 @@
 # Practical introduction to Ruby
 
 ## Basics
-  ### Interpreted (RuntimeError)
-  ### Everything is an Object
-  ### Duck-typing
+  1. Interpreted (RuntimeError)
+  2. Everything is an Object
+  3. Duck-typing
 ## Syntax
-  ### http://web.stanford.edu/~ouster/cgi-bin/cs142-spring12/slides/ruby.pdf
+  1. http://web.stanford.edu/~ouster/cgi-bin/cs142-spring12/slides/ruby.pdf
 ## Classes & Modules
-  ### What is Class
-  ### What is Module
-  ### Inheritance (Mixin concept - multiple inheritance)
+  1. What is Class
+  2. What is Module
+  3. Inheritance (Mixin concept - multiple inheritance)
 ## Standard & Core library
-  ### http://ruby-doc.org/
+  1. http://ruby-doc.org/
 ## Metaprogramming
-  ### Dynamic method definitions
+  1. Dynamic method definitions
 ## Tools
-  ### RVM
-  ### Rubygems
-  ### irb
-  ### debugger (byebug)
-  ### text editor of choice
+  1. RVM
+  2. Rubygems
+  3. irb
+  4. debugger (byebug)
+  5. text editor of choice
 ## Testing
-  ### rspec
-  ### capybara
+  1. rspec
+  2. capybara
 ## Ruby and Rails
 
 references:

@@ -10,7 +10,7 @@
 
 ## 1 - Read CSV in console
 
-Goal = read csv from ruby console
+**Read csv from ruby console**
 
 1. Open up terminal and navigate to directory with example files.
 2. Fire up `irb` - you are now in Ruby REPL(console)
@@ -20,11 +20,11 @@ Goal = read csv from ruby console
 
 ## 2 - create ruby script from steps above
 
-Goal = script which prints out all names from file. The script has to be runnable with `ruby print_contacts_names.rb`
+**script which prints out all names from file. The script has to be runnable with `ruby print_contacts_names.rb`**
 
 ## 3 - read csv file with headers
 
-Goal = Create script which prints contacts names from csv file with headers
+**Create script which prints contacts names from csv file with headers**
 
 To read file with headers:
 
@@ -34,6 +34,8 @@ parsed = contacts.map { |row| row.to_h }
 ```
 
 ## 4 - Filter out contacts without vatins
+
+**Create script which filters out contacts without vatin and writes them into new file**
 
 1. use select to filter contacts - https://ruby-doc.org/core-2.2.0/Array.html#method-i-select
 2. Writing to a file:
